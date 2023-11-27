@@ -1,3 +1,5 @@
+"use client";
+
 import { TwDidService } from "@tw-did/core";
 
 export default function Home() {
